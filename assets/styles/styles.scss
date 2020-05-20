@@ -101,7 +101,15 @@ a {
 		}
 	}
 }
-
+.left-align {
+	float: left;
+	width: 30%;
+	height: auto;
+	padding: 5%;
+}
+.right-align{
+	float: right;
+	width: 50%;
 .pullout {
 	float: right;
 	width: 30%;
